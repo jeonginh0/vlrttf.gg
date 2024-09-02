@@ -1,1 +1,2 @@
-# Project Title
+# VLRTTF.GG
+# 발로란트 내전 통합 관리 웹 애플리케이션
